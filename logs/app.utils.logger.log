@@ -1,3 +1,0 @@
-{"timestamp": "2025-12-09T17:58:23.363657", "level": "INFO", "name": "app.utils.logger", "message": "Created policy 6938633949f6791072b1c2e0", "module": "crud", "function": "create_policy", "line": 92}
-{"timestamp": "2025-12-09T18:00:23.322167", "level": "INFO", "name": "app.utils.logger", "message": "Created employee with id 693863b749f6791072b1c2e1", "module": "crud", "function": "create_employee", "line": 34}
-{"timestamp": "2025-12-09T18:06:25.253979", "level": "INFO", "name": "app.utils.logger", "message": "Assigned policy 6938633949f6791072b1c2e0 to employee 693863b749f6791072b1c2e1", "module": "crud", "function": "assign_policy_to_employee", "line": 161}
